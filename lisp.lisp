@@ -197,7 +197,8 @@
 ;; cl-opengl
 
 ;; 2) other parts of the language if, when, loop, cons, car, subseq,
-;; assoc, reverse, comments, #+nil
+;; assoc, reverse, comments, #+nil, &optional, &key, &body,
+;; destructuring-bind
 
 ;; 3) MACROS, that is one of lisps biggest strengths: once you
 ;; mastered the language a little bit (backquote, intern, format with
